@@ -10,3 +10,4 @@ git add - dosyayı staging'e alır
 git commit - değişikliği kaydeder
 git status - durumu gösterir
 git log - geçmişi gösterir
+ek not
