@@ -3,3 +3,10 @@ cd - klasor değistirir
 pwd - bulundugun konumu gosterir
 mkdir - yeni klasor olusturur
 cp - dosya kopyalar
+
+--- Hafta 2 Git Komutları ---
+git init - yeni repo başlatır
+git add - dosyayı staging'e alır
+git commit - değişikliği kaydeder
+git status - durumu gösterir
+git log - geçmişi gösterir
